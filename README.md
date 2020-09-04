@@ -36,7 +36,6 @@ So I inputted data into this statistical analysis machine, known as a stochasit 
 Here it is pulling through what I want. It predicts what type of sentance would be next based on some of j.coles old lyrics.
 
 ![Image](/images/logo.png)
-Format: ![Alt Text](url)
 
 It is not perfect. but that doesn't matter.
 
