@@ -1,6 +1,7 @@
 # jcole-lyrics-bot
 Creates J. Cole type lyrics
 
+https://www.youtube.com/watch?v=2Wjn4Dg0yWI
 
 I was bored so I decided to make something...
 Here is a program that creates lyrics in the style of of J. [the vill is back, cole world, king is back] Cole- J. Cole...
